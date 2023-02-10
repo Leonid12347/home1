@@ -1,0 +1,47 @@
+body {
+  box-sizing: border-box;
+
+  padding: 0;
+  border: 0;
+}
+
+.img {
+  width: 200px;
+  height: 270px;
+  margin-left: 1rem;
+}
+
+
+.text {
+  text-align: left;
+}
+
+.section {
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+}
+
+.m-1 {
+  margin-left: 1rem;
+}
+
+.table {
+  width: 50%;
+
+}
+
+.title-footer {
+  border: 0;
+  text-align: center;
+  padding: 0;
+}
+
+td, th {
+  border: 3px double #dddddd;
+  text-align: left;
+}
+
+.title {
+  text-align: center;
+}
